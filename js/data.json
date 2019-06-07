@@ -1,0 +1,32 @@
+
+	var film = [{
+		"name": "Aladdin",
+		"image": "img/aladdin.jpg",
+		"description": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp.",
+		"rating": 7,
+	},{
+		"name": "John Wick: Chapter 3 - Parabellum",
+		"image": "img/johnwick.jpg",
+		"description": "Super-assassin John Wick still looking for vengence for his best friend.",
+		"rating": 8,
+	},{
+		"name": "Ma",
+		"image": "img/ma.jpg",
+		"description": "A lonely woman befriends a group of teenagers and decides to let them party at her house. ",
+		"rating": 6,
+	},{
+		"name": "The Secret Life of Pets 2",
+		"image": "img/pets2.jpg",
+		"description": "Continuing the story of Max and his pet friends, following their secret lives.",
+		"rating": 6,
+	},{
+		"name": "X-Men: Dark Phoenix",
+		"image": "img/phoenix.jpg",
+		"description": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix.",
+		"rating": 5,
+	},{
+		"name": "Rocketman",
+		"image": "img/rocketman.jpg",
+		"description": "A musical fantasy about the fantastical human story of Elton John's breakthrough years.",
+		"rating": 7,
+	},]
